@@ -38,9 +38,9 @@ Word Builder Game is a fast-paced typing and reaction game built with Pygame. Pl
    - Letters fall from the top of the screen.
    - Click on letters with the mouse to collect them in the correct order to match the target word (displayed at the top).
    - Correct words increase your score and add bonus time based on difficulty:
-     - Easy: +5 seconds
-     - Medium: +3 seconds
-     - Hard: +2 seconds
+     - Easy: (+5 seconds * len(Word Built))
+     - Medium: (+4 seconds * len(Word Built))
+     - Hard: (+3 seconds * len(Word Built))
    - The game ends when the timer reaches zero.
 3. **Game Over**:
    - View your final score and press `Enter` to return to the menu.
