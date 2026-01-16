@@ -110,7 +110,7 @@ Word_Builder/
 │   ├── Menu.png
 │   ├── GamePlay.png
 │   └── game_over.png
-└── venv/                          # Virtual environment (not in repo)
+└── venv/                          # Virtual environment 
 ```
 
 ## 🎨 Customization
@@ -278,18 +278,9 @@ Contributions are welcome! Here's how you can help:
 
 ### Ideas for Contributions
 
+- [ ] Add Website support and host it there
 - [ ] Add sound effects and background music
-- [ ] Implement high score system with local storage
-- [ ] Add power-ups (freeze time, slow letters, etc.)
-- [ ] Create themed word packs (coding, science, etc.)
-- [ ] Add multiplayer mode
-- [ ] Implement progressive difficulty scaling
-- [ ] Add keyboard typing mode as alternative to mouse
-- [ ] Create level progression system
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [ ] Implement better scoring algorithms
 
 ## 👤 Author
 
